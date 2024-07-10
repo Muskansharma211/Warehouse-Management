@@ -194,9 +194,4 @@ release 0.92. The Supply Chain and Logistics Institute, School of Industrial
 and Systems Engineering, Georgia Institute of Technology, Atlanta, GA,
 30332, 2010.
 
-4. Parvaneh Jahani. Dynamic warehouse optimization using predictive
-analytics. 12-2016 . 1-188.
-5. Lee, C. K. M., Lv, Y., Ng, K. K. H., Ho, W., & Choy, K. L. (2017). Design and
-application of Internet of things-based warehouse management system for
-smart logistics. International Journal of Production Research, 56(8),
-2753–2768.
+
